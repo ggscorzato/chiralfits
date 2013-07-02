@@ -1,0 +1,3 @@
+functions for chiral fits with finite volume corrections.
+Main functions are fit_fpi_mpi_*.m
+the file data contains an example set of data
